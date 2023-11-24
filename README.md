@@ -2,7 +2,7 @@
 ![](https://wallpapers.com/images/hd/aesthetic-y2k-background-1920-x-1080-84t7cxkfs3ymgfhh.jpg)
 ---
 
-##Freelance Web Developer
+## Freelance Web Developer
 >**Currently**: Completing Brad Traversy's Javascript course
 
 ---
