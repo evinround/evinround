@@ -1,14 +1,10 @@
 
-
-## Freelance Web Developer                                                                     
-**Currently**: Completing Brad Traversy's Javascript course    
-
-
-
-
 ---
 ![](https://cdn.dribbble.com/users/2056345/screenshots/16392429/media/69eaab518cb9d6e2629746654fef9359.png)
 ---
+
+## Freelance Web Developer                                                                     
+**Currently**: Completing Brad Traversy's Javascript course    
 
 
 
