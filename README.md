@@ -13,8 +13,6 @@
 **Freelance Web Developer**                                                                     
 **Currently**: Completing Brad Traversy's Javascript course 
 
-I have a Certificate in Media Communications and have taken courses in Web Development. I have transitioned into a self-taught role and am actively touching into many communities and skillsets in order to further my career as a Front-End Dev.
-
 
 
 
