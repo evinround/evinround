@@ -8,9 +8,7 @@
 ┊         ┊       ★⋆
 ┊ ◦
 ★⋆      ┊ .  ˚
-           ˚★
-
-**Freelance Web Developer**                                                                     
+           ˚★                                                                  
 
 <h1 align="center">Hi 🌸, I'm Evin Round</h1>
 <h3 align="center">A passionate frontend developer from Michigan</h3>
