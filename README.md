@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannachan" alt="dannachan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nimenimadame" target="blank"><img src="https://img.shields.io/twitter/follow/nimenimadame?logo=twitter&style=for-the-badge" alt="nimenimadame" /></a> </p>
+<img align="right" height="150" src="https://i.ibb.co/kgRdy2Y/download20240100132831.png"/>
 
 - 🔭 I’m currently working on the **100DEVs Course**
 
