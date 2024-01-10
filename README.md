@@ -23,10 +23,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **Links in my Bento!**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/evin-round/](https://www.linkedin.com/in/evin-round/)
-
 - ⚡ Fun fact **I hoard Fortnite skins**
 
 <h3 align="center">Connect with me:</h3>
