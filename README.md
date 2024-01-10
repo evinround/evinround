@@ -19,13 +19,11 @@
 
 <img align="right" height="150" src="https://i.ibb.co/kgRdy2Y/download20240100132831.png"/>
 
-- 🔭 I’m currently working on the **100DEVs Course**
+- 🔭 I’m currently working on the **100DEVs Course, Javacript30, and now COLLEGE!**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML && CSS**
-
-- 📫 How to reach me **eround@kent.edu**
+- 📫 How to reach me **Links in my Bento!**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/evin-round/](https://www.linkedin.com/in/evin-round/)
 
