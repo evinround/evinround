@@ -23,7 +23,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **I hoard Fortnite skins**
+- ⚡ Fun fact **I hoard Fortnite & COD skins**
+
+- 💜 Happily together with **CJ Goodwin for 6 years**~!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
