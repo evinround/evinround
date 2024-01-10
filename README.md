@@ -44,7 +44,12 @@
 
 ![Evin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannachan&show_icons=true&theme=onedark&hide_rank=true)
 <h3 align="right">Support:</h3>
-<p><a href="https://ko-fi.com/danna94"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danna94" /></a></p><br><br>
+<p><a href="https://ko-fi.com/danna94"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danna94" /></a></p>
+<br><br>
+<br>
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
