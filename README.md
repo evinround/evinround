@@ -19,13 +19,13 @@
 
 <img align="right" height="150" src="https://i.ibb.co/kgRdy2Y/download20240100132831.png"/>
 
-- 🔭 I’m currently working on the **100DEVs Course, Javacript30, and now COLLEGE!**
+- 🔭 I’m currently working on the **100DEVs Course and now COLLEGE!**
 
 - 🌱 I’m currently learning **Javascript**
 
 - ⚡ Fun fact **I hoard Fortnite & COD skins**
 
-- 💜 Happily together with **CJ Goodwin for 6 years**~!
+- 💜 Happily together with **CJ Goodwin for 5 years**~!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
